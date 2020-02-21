@@ -1,0 +1,23 @@
+{
+  "name": "typings",
+  "version": "1.0.0",
+  "description": "<a href=\"https://typings.gg\" target=\"_blank\">typings.gg</a> is a sleek and modern typing test website. it supports many custom themes",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/angdav/typings.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/angdav/typings/issues"
+  },
+  "homepage": "https://github.com/angdav/typings#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
